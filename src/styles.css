@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+    margin-top: 2%;
+}
+.ahorcado-img{
+    height: 400px;
+}
+
+button{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.letras{
+    margin-left: 7%;
+    margin-right: 7%;
+}
